@@ -1,0 +1,7 @@
+<suite name="suite" parallel="none">
+    <test name="Test">
+        <classes>
+            <class name="example.NewTest"></class>
+        </classes>
+    </test>
+</suite>
